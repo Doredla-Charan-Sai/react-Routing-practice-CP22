@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.content-cont {
+  padding: 30px;
+  width: 100%;
+}
+.nav-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}
+.links-list {
+  margin: 0;
+  padding: 0px;
+  list-style-type: none;
+}
+.link {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  margin-left: 20px;
+}

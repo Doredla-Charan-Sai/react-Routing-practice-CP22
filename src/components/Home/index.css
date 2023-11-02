@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.cont {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.img-text {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #12022f;
+}
+.img {
+  height: 300px;
+  width: 300px;
+}
